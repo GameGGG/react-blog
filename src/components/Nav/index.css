@@ -1,4 +1,8 @@
 .nav{
-    margin: 10px auto;
+    margin: 0px auto;
+    padding: 5px 0;
     width: 90%;
+}
+.nav p{
+    text-align: right;
 }

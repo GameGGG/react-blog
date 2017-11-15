@@ -1,0 +1,18 @@
+.list{
+    margin-top: 40px;
+}
+.list-head_title{
+    font-size: 22px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+.list-head_time{
+    font-size: 14px;
+}
+.list-content{
+    font-size: 14px;
+    color: gray;
+    text-align: left;
+}
